@@ -1,0 +1,21 @@
+05/05/2021 - 1ª Aula - Python para NLP
+
+	O que é NLP?
+	
+		Ensinar um computador a lidar com uma linguagem, em resumo, ensinar a 	máquina a ler e escrever. Com o foco em entender a língua humana.
+		
+		* Linguagem -> Capacidade humana de comunicação e suas manifestações, de forma verbal ou não.
+		
+		* Língua -> Código de comunicação utilizado por uma comunidade, com suas regras.
+		
+	O NLP é uma subárea da AI, que ajuda a máquina a entender nossa língua (português, inglês, espanhol etc).
+	
+	Morfologia -> Construção das palavras.
+	Sintaxe -> Como as sentenças são formadas, como as palavras podem se combinar.
+	Semântica -> Significado das palavras, expressões, orações, sentenças e textos.
+	Pragmática/Discurso -> 
+	
+	Correlações:
+		1. Morfologia e Sintaxe
+		2. Sintase e Semântica
+		3. Semântica e Discurso
