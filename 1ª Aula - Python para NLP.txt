@@ -19,3 +19,8 @@
 		1. Morfologia e Sintaxe
 		2. Sintase e Semântica
 		3. Semântica e Discurso
+	
+	Fases do trabalho
+		1. Linguística
+		2. Representacional
+		3. Implementacional
